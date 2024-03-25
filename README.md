@@ -3,6 +3,11 @@
 ## Introduction
 Evergrow CRM is a comprehensive and versatile project tailored to meet the needs of small and medium-sized businesses (SMBs) in customer relationship management (CRM). It's built to streamline business processes and integrate various functionalities like CRM, Commerce, Accounts, HR, Accounting, and Sales, providing a unified solution for growing businesses.
 
+## Website
+For more information and live demo in dev environment, visit the Evergrow CRM website:
+
+DEV: [dev.app.evergrowcrm.com](https://dev.app.evergrowcrm.com)
+
 ### Current Version
 - **Version 1:** Focuses on commerce management.
 
@@ -32,8 +37,3 @@ Evergrow CRM is a comprehensive and versatile project tailored to meet the needs
 - Test-Driven Development
 - Workflow and Process Flow Diagrams
 - User Acceptance Testing
-
-## Website
-For more information and live demo in dev environment, visit the Evergrow CRM website:
-
-DEV: [dev.app.evergrowcrm.com](https://dev.app.evergrowcrm.com)
