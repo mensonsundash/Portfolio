@@ -37,4 +37,3 @@ Evergrow CRM is a comprehensive and versatile project tailored to meet the needs
 For more information and live demo in dev environment, visit the Evergrow CRM website:
 
 DEV: [dev.app.evergrowcrm.com](https://dev.app.evergrowcrm.com)
-APP: [app.evergrowcrm.com.au](https://app.evergrowcrm.com.au)
